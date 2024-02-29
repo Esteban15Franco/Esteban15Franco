@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Hello, I am a systems engineering student. I´m from Colombia.
+I love programming and learning.
 <!--
 **Esteban15Franco/Esteban15Franco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
