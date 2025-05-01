@@ -12,8 +12,8 @@ Soy estudiante de Ingeniería de Sistemas apasionado por el desarrollo de softwa
 | Proyecto | Descripción |
 |---------|-------------|
 | [ArrExercise](https://github.com/Esteban15Franco/ArrExercise) | Ejercicios prácticos con arreglos en Java para reforzar fundamentos |
-| [NombreDelRepo2](https://github.com/Esteban15Franco/rock-Paper-seasor-shot) | Juego piedra, papel o tijera en Java con modo de juego con interfaz y consola |
-| [NombreDelRepo3](https://github.com/Andres111203/MiniProyecto1_POE) | CRUD entidad bancaria en Java donde se registran prestamos para los clientes|
+| [RockPaperSeasor](https://github.com/Esteban15Franco/rock-Paper-seasor-shot) | Juego piedra, papel o tijera en Java con modo de juego con interfaz y consola |
+| [EntidadBancaria](https://github.com/Andres111203/MiniProyecto1_POE) | CRUD entidad bancaria en Java donde se registran prestamos para los clientes|
 
 ### 📖 Actualmente
 - Realizando un curso completo de Java para reforzar bases y buenas prácticas
